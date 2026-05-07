@@ -1,0 +1,10 @@
+.my-window{
+color:red;
+}
+button label{
+color:black;
+}
+.my-button:active{
+background:blue;
+}
+
